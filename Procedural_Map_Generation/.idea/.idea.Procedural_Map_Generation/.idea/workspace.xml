@@ -1,0 +1,500 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d3905b2c-35e9-443b-b472-c15dcfa8d269" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="491260121">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="6" />
+          <entry key="project.open.time.137" value="1" />
+          <entry key="project.open.time.34" value="1" />
+          <entry key="project.open.time.35" value="1" />
+          <entry key="project.open.time.39" value="1" />
+          <entry key="project.open.time.41" value="1" />
+          <entry key="project.open.time.45" value="1" />
+          <entry key="project.opened" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="cs" value="86" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="C#" value="86" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="cs" value="7281" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="C#" value="7281" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>wall</find>
+    </findStrings>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MazeRoom.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MazeWall.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Player.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MazeDoor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MazeCellEdge.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MazeCell.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Maze.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B8732DE5-BEEC-4A87-8F92-8152240B5DC1/ad/16b3c7c6/Random.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/LevelGenerator.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/IntVector2.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MazeDirection.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MazePassage.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MazeRoomSettings.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MazeWall.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MazeDirections.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MazeRoom.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Managers/GameManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Constructors/IntVector2.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Maze/Direction/MazeDirections.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Maze/Maze.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MazeCellEdge.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MazeCell.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MazeDoor.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Maze.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="25" />
+    <option name="y" value="18" />
+    <option name="width" value="1260" />
+    <option name="height" value="944" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="UnityExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="FileSystemExplorer" />
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="UnityExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
+            </path>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
+              <item name="Scripts" type="1045f7f1:UnityExplorerNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-hidden-items" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.C#" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Attach to Unity Editor.Attach to Unity Editor" />
+      <item itemvalue="Attach to Unity Editor.Attach to Unity Editor &amp; Play" />
+    </list>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1296" height="1000" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27022654" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unity" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unit Tests" order="12" />
+      <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Errors In Solution" order="3" weight="0.32928804" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="5" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26213592" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unity" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unit Tests" order="12" />
+      <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Errors In Solution" order="3" weight="0.32928804" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="5" />
+    </layout-to-restore>
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/LevelGenerator.cs" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B8732DE5-BEEC-4A87-8F92-8152240B5DC1/ad/16b3c7c6/Random.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="66" lean-forward="true" selection-start-line="18" selection-start-column="66" selection-end-line="18" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/IntVector2.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/MazeRoomSettings.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/MazePassage.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/GameManager.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/MazeDirections.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Maze/Cell/MazeCell.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Maze/Cell/MazeCellEdge.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Maze/Door/MazeDoor.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Player/Player.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="19" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Maze/Wall/MazeWall.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Maze/Room/MazeRoomSettings.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="3" column="28" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Maze/Room/MazeRoom.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Maze/Passage/MazePassage.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Managers/GameManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="42" column="97" selection-start-line="42" selection-start-column="97" selection-end-line="42" selection-end-column="97" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Constructors/IntVector2.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="20" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Maze/Direction/MazeDirections.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="58" column="8" selection-start-line="58" selection-start-column="8" selection-end-line="58" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Maze/Maze.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1438">
+          <caret line="96" column="55" selection-start-line="96" selection-start-column="55" selection-end-line="96" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/MazeCellEdge.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="45" selection-start-line="30" selection-start-column="45" selection-end-line="30" selection-end-column="45" />
+          <folding>
+            <marker date="1543089732476" expanded="true" signature="71:1331" ph="{...}" />
+            <marker date="1543089732476" expanded="true" signature="182:490" ph="/// Make edges to cells of their cells and place them in the same place. ... " />
+            <marker date="1543089732476" expanded="true" signature="586:1085" ph="{...}" />
+            <marker date="1543089732476" expanded="true" signature="1091:1154" ph="/// Player entered a cell. ... " />
+            <marker date="1543089732476" expanded="true" signature="1196:1208" ph="{...}" />
+            <marker date="1543089732476" expanded="true" signature="1214:1276" ph="/// Player exited a cell. ... " />
+            <marker date="1543089732476" expanded="true" signature="1317:1329" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/MazeRoom.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1543009902161" expanded="true" signature="6:52" ph="..." />
+            <marker date="1543009902161" expanded="true" signature="95:1259" ph="{...}" />
+            <marker date="1543009902161" expanded="true" signature="271:398" ph="/// Add maze cell to the room. ... " />
+            <marker date="1543009902161" expanded="true" signature="438:514" ph="{...}" />
+            <marker date="1543009902161" expanded="true" signature="524:656" ph="/// Get rid of assimilated room instances. ... " />
+            <marker date="1543009902161" expanded="true" signature="698:798" ph="{...}" />
+            <marker date="1543009902161" expanded="true" signature="752:792" ph="{...}" />
+            <marker date="1543009902161" expanded="true" signature="808:909" ph="/// Hide only the room in which the player is currently located. ... " />
+            <marker date="1543009902161" expanded="true" signature="932:1029" ph="{...}" />
+            <marker date="1543009902161" expanded="true" signature="981:1023" ph="{...}" />
+            <marker date="1543009902161" expanded="true" signature="1036:1137" ph="/// Show only the room in which the player is currently located. ... " />
+            <marker date="1543009902161" expanded="true" signature="1160:1257" ph="{...}" />
+            <marker date="1543009902161" expanded="true" signature="1209:1251" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/MazeCell.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="79" column="27" selection-start-line="79" selection-start-column="27" selection-end-line="79" selection-end-column="27" />
+          <folding>
+            <marker date="1543091116054" expanded="true" signature="58:3428" ph="{...}" />
+            <marker date="1543091116054" expanded="true" signature="277:464" ph="/// Get edges from array. ... " />
+            <marker date="1543091116054" expanded="true" signature="522:573" ph="{...}" />
+            <marker date="1543091116054" expanded="true" signature="579:760" ph="/// Save edges in a array. ... " />
+            <marker date="1543091116054" expanded="true" signature="829:916" ph="{...}" />
+            <marker date="1543091116054" expanded="true" signature="922:1003" ph="/// Track of how often an edge has been set. ... " />
+            <marker date="1543091116054" expanded="true" signature="1039:1121" ph="{...}" />
+            <marker date="1543091116054" expanded="true" signature="1131:1210" ph="/// Check, what direction does not exists. ... " />
+            <marker date="1543091116054" expanded="true" signature="1265:2190" ph="{...}" />
+            <marker date="1543091116054" expanded="true" signature="1284:2184" ph="{...}" />
+            <marker date="1543091116054" expanded="true" signature="1588:2060" ph="{...}" />
+            <marker date="1543091116054" expanded="true" signature="1846:1927" ph="{...}" />
+            <marker date="1543091116054" expanded="true" signature="2200:2310" ph="/// Initializing room. ... " />
+            <marker date="1543091116054" expanded="true" signature="2353:2563" ph="{...}" />
+            <marker date="1543091116054" expanded="true" signature="2573:2636" ph="/// Player entered a cell. ... " />
+            <marker date="1543091116054" expanded="true" signature="2670:2814" ph="{...}" />
+            <marker date="1543091116054" expanded="true" signature="2752:2808" ph="{...}" />
+            <marker date="1543091116054" expanded="true" signature="2821:2883" ph="/// Player exited a cell. ... " />
+            <marker date="1543091116054" expanded="true" signature="2916:3059" ph="{...}" />
+            <marker date="1543091116054" expanded="true" signature="2998:3053" ph="{...}" />
+            <marker date="1543091116054" expanded="true" signature="3069:3170" ph="/// Hide only the room in which the player is currently located. ... " />
+            <marker date="1543091116054" expanded="true" signature="3194:3243" ph="{...}" />
+            <marker date="1543091116054" expanded="true" signature="3253:3354" ph="/// Show only the room in which the player is currently located. ... " />
+            <marker date="1543091116054" expanded="true" signature="3378:3426" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/MazeWall.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1542904876000" expanded="true" signature="57:470" ph="{...}" />
+            <marker date="1542904876000" expanded="true" signature="299:468" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/MazeDoor.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="40" column="76" lean-forward="true" selection-start-line="40" selection-start-column="76" selection-end-line="40" selection-end-column="76" />
+          <folding>
+            <marker date="1543091652835" expanded="true" signature="56:2105" ph="{...}" />
+            <marker date="1543091652835" expanded="true" signature="317:399" ph="/// Check if it was created as a second door. ... " />
+            <marker date="1543091652835" expanded="true" signature="437:526" ph="{...}" />
+            <marker date="1543091652835" expanded="true" signature="676:1576" ph="{...}" />
+            <marker date="1543091652835" expanded="true" signature="833:873" ph="{...}" />
+            <marker date="1543091652835" expanded="true" signature="1331:1570" ph="{...}" />
+            <marker date="1543091652835" expanded="true" signature="1441:1560" ph="{...}" />
+            <marker date="1543091652835" expanded="true" signature="1683:1856" ph="{...}" />
+            <marker date="1543091652835" expanded="true" signature="1958:2103" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Maze.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="780">
+          <caret line="268" column="5" lean-forward="true" selection-start-line="268" selection-start-column="5" selection-end-line="268" selection-end-column="5" />
+          <folding>
+            <marker date="1543091848287" expanded="false" signature="6:78" ph="..." />
+            <marker date="1543091848287" expanded="true" signature="114:10444" ph="{...}" />
+            <marker date="1543091848287" expanded="true" signature="732:804" ph="/// Constructing the maze contents. ... " />
+            <marker date="1543091848287" expanded="true" signature="839:1562" ph="{...}" />
+            <marker date="1543091848287" expanded="true" signature="1252:1413" ph="{...}" />
+            <marker date="1543091848287" expanded="true" signature="1514:1556" ph="{...}" />
+            <marker date="1543091848287" expanded="true" signature="1572:1789" ph="/// We instantiate a new cell, put it in the array and give it a descriptive name. ... " />
+            <marker date="1543091848287" expanded="true" signature="1850:2607" ph="{...}" />
+            <marker date="1543091848287" expanded="true" signature="1965:2090" ph="/* Customize Maze to use IntVector2 when creating cells and for their size instead of using two separate ... */" />
+            <marker date="1543091848287" expanded="true" signature="2617:2684" ph="/// Generates some coordinates ... " />
+            <marker date="1543091848287" expanded="true" signature="2725:2828" ph="{...}" />
+            <marker date="1543091848287" expanded="true" signature="2834:3053" ph="/// Checks if some coordinates fall into the maze. ... " />
+            <marker date="1543091848287" expanded="true" signature="3114:3235" ph="{...}" />
+            <marker date="1543091848287" expanded="true" signature="3245:3462" ph="/// Retrieve the cell of the maze at some coordinates. ... " />
+            <marker date="1543091848287" expanded="true" signature="3519:3588" ph="{...}" />
+            <marker date="1543091848287" expanded="true" signature="3598:3720" ph="/// Set a random start point. ... " />
+            <marker date="1543091848287" expanded="true" signature="3795:4044" ph="{...}" />
+            <marker date="1543091848287" expanded="true" signature="4050:4255" ph="/// Calls the current cell and checks if the move is possible, otherwise the cell will be removed from the list. ... " />
+            <marker date="1543091848287" expanded="true" signature="4323:6261" ph="{...}" />
+            <marker date="1543091848287" expanded="true" signature="4610:4711" ph="{...}" />
+            <marker date="1543091848287" expanded="true" signature="5032:6103" ph="{...}" />
+            <marker date="1543091848287" expanded="true" signature="5264:5536" ph="{...}" />
+            <marker date="1543091848287" expanded="true" signature="5703:5900" ph="{...}" />
+            <marker date="1543091848287" expanded="true" signature="5917:6093" ph="{...}" />
+            <marker date="1543091848287" expanded="true" signature="6117:6255" ph="{...}" />
+            <marker date="1543091848287" expanded="true" signature="6271:6592" ph="/// Simply instantiate their respective prefabs and initialize them, once for both cells. ... " />
+            <marker date="1543091848287" expanded="true" signature="6696:7415" ph="{...}" />
+            <marker date="1543091848287" expanded="true" signature="7033:7203" ph="/* Check whether a door has been placed. ... */" />
+            <marker date="1543091848287" expanded="true" signature="7421:7742" ph="/// Simply instantiate their respective prefabs and initialize them, once for both cells. ... " />
+            <marker date="1543091848287" expanded="true" signature="7843:8300" ph="{...}" />
+            <marker date="1543091848287" expanded="true" signature="8086:8126" ph="{...}" />
+            <marker date="1543091848287" expanded="true" signature="8310:8527" ph="/// Create a new room for the first cell and each time we spawn a door. ... " />
+            <marker date="1543091848287" expanded="true" signature="8580:9250" ph="{...}" />
+            <marker date="1543091848287" expanded="true" signature="8915:9102" ph="{...}" />
+            <marker date="1543091848287" expanded="true" signature="9260:9554" ph="/// Creates a passage between two cells, with no chance of a door. ... " />
+            <marker date="1543091848287" expanded="true" signature="9665:10442" ph="{...}" />
+            <marker date="1543091848287" expanded="true" signature="10001:10136" ph="/* Then we have Maze check whether it's connecting different rooms, in which case it assimilates and removes the ... */" />
+            <marker date="1543091848287" expanded="true" signature="10185:10225" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Player.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="615">
+          <caret line="41" column="39" lean-forward="true" selection-start-line="41" selection-start-column="39" selection-end-line="41" selection-end-column="39" />
+          <folding>
+            <marker date="1543008170026" expanded="true" signature="56:2396" ph="{...}" />
+            <marker date="1543008170026" expanded="true" signature="174:224" ph="/// Movement. ... " />
+            <marker date="1543008170026" expanded="true" signature="251:1182" ph="{...}" />
+            <marker date="1543008170026" expanded="true" signature="377:434" ph="{...}" />
+            <marker date="1543008170026" expanded="true" signature="521:597" ph="{...}" />
+            <marker date="1543008170026" expanded="true" signature="683:754" ph="{...}" />
+            <marker date="1543008170026" expanded="true" signature="840:923" ph="{...}" />
+            <marker date="1543008170026" expanded="true" signature="970:1053" ph="{...}" />
+            <marker date="1543008170026" expanded="true" signature="1100:1176" ph="{...}" />
+            <marker date="1543008170026" expanded="true" signature="1188:1318" ph="/// Tell it what cell it player in. ... " />
+            <marker date="1543008170026" expanded="true" signature="1366:1642" ph="{...}" />
+            <marker date="1543008170026" expanded="true" signature="1411:1478" ph="{...}" />
+            <marker date="1543008170026" expanded="true" signature="1648:1775" ph="/// Change player rotation. ... " />
+            <marker date="1543008170026" expanded="true" signature="1823:1932" ph="{...}" />
+            <marker date="1543008170026" expanded="true" signature="1938:2135" ph="/// Movement should only happen if the edge we would cross is a passage, otherwise we're blocked. ... " />
+            <marker date="1543008170026" expanded="true" signature="2183:2394" ph="{...}" />
+            <marker date="1543008170026" expanded="true" signature="2327:2388" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
